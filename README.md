@@ -57,7 +57,7 @@ Interacting with the App
 - Positions (Forward, Midfielder, Defender, Goalkeeper)
 - **View Player Cards**: Each player card displays the player's name, position, number, and nickname.
 
-### *Code Structure**
+### **Code Structure**
 Here’s an overview of the main files in the project:
 
 - **index.html**: The main structure of the web application.
